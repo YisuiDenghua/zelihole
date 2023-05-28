@@ -1,7 +1,58 @@
-# Sand Zelee 关于我
+# This is me 关于我
 Hey, guys! \
 I'm a Chinese student from [Wuxi Jiangnan Middle School](https://jiangnan.wxeic.cn/). ^_^ \
-I want to improve my skills on Github. 
+I have attended many activities for my school and I'm the AVEC in our class.\
+My hobbies are in the area of IT and funny😅.\
+I want to improve my skills on Github. \
+Together for the shared future.\
+Oh! And also, as a Laoyoutiao on Bilibili, I am an Ikun🤩!（手动狗头）\
+｀　　　　　　鸡\
+鸡鸡鸡鸡　鸡鸡鸡鸡鸡\
+　　　鸡　鸡　　　鸡\
+鸡　　鸡　鸡　鸡　鸡\
+鸡　　鸡　鸡　　　鸡\
+　鸡　鸡　鸡　鸡鸡鸡\
+　鸡　鸡　鸡\
+　　鸡　　鸡鸡鸡鸡鸡鸡\
+　　鸡　　　　　　　鸡\
+　鸡　鸡　鸡鸡鸡鸡　鸡\
+鸡　　　鸡　　　　鸡鸡\
+\
+　　你　你\
+　　你　你你你你你你你\
+　你　　你　　　　　你\
+　你　你　　　你　　你\
+你你　　　　　你\
+　你　　　你　你　你\
+　你　　　你　你　你\
+　你　　你　　你　　你\
+　你　　你　　你　　你\
+　你　　　　　你\
+　你　　　　你你\
+\
+　　　　　太\
+　　　　　太\
+太太太太太太太太太太太\
+　　　　　太\
+　　　　太　太\
+　　　　太　太\
+　　　太　　　太\
+　　　太　　　太\
+　　太　　太　　太\
+　太　　　　太　　太\
+太　　　　　　　　　太\
+\
+　　美美　　　美美\
+美美美美美美美美美美美\
+　　　　　美\
+　美美美美美美美美美\
+　　　　　美\
+美美美美美美美美美美美\
+　　　　　美\
+美美美美美美美美美美美\
+　　　　美　美\
+　　美美　　　美美\
+美美　　　　　　　美美
 ## Contact me 联系我
 Email：\
 ①zelihole@outlook.com\
