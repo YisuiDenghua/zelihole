@@ -70,6 +70,7 @@ FBI笑道：其实我们早就发现有人伪造莫斯密码箱，准备引诱�
 希拉外热泪盈眶：原来祖国没有抛弃我。
 
 FBI笑了：那是，你们都是祖国最优秀的将士，怎么可能这么轻易放弃！！！
+![自由美利坚](https://i2.100024.xyz/2023/06/06/12vb9h4.webp)
 ### English
 On the rooftop, an old man with blond hair held the railing, looking to the east, and mumbling in a strange Mandarin in his mouth: Scattered years and scattered years, the nest has done the old beating position, even Mandarin almost forgot how to say, when can you go home, showing an authentic egg fried rice.
 
