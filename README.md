@@ -15,6 +15,8 @@ Email：\
 ②zelihole@tutanota.com\
 Bilibili：\
 ①[UID：1186584392](https://space.bilibili.com/1186584392)\
+XINGCHENMAO：\
+①[AuthorNum：991](https://www.xcng.cn/author/991)\
 _I may not be able to be reached through other Social Platform._
 # SERIOUS WARNING 严正警告
 Do not leave any saying such as "TW isn't a part of CN" again!\
