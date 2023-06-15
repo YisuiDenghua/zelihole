@@ -17,8 +17,8 @@ Bilibili：\
 ①[UID：1186584392](https://space.bilibili.com/1186584392)\
 XINGCHENMAO：\
 ①[AuthorNum：991](https://www.xcng.cn/author/991)\
-MOE.ONE：、
-①[UID：174](https://moe.one/user-174.htm)
+MOE.ONE：\
+①[UID：174](https://moe.one/user-174.htm)\
 _I may not be able to be reached through other Social Platform._
 # SERIOUS WARNING 严正警告
 Do not leave any saying such as "TW isn't a part of CN" again!\
