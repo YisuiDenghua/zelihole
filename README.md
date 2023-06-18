@@ -26,7 +26,7 @@ The question of Taiwan is entirely and internal affair of the PRC.\
 🤭🤭🤭
 [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
 # Public welfare promotion 公益宣传
-![lldcztam](https://i2.100024.xyz/2023/06/08/129p8t1.webp)
+![搜狗截图20230618083759](https://i2.100024.xyz/2023/06/18/dxkxc7.webp)\
 ░░░░░░░░░░░ ██\
 ░░░░░░░░░░░█░█\
 ░░░░░░░░░░█░░█\
