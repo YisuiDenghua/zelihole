@@ -1,42 +1,53 @@
-# This is me 关于我
-Hey, guys! \
-I'm a Chinese student from [Wuxi Jiangnan Middle School](https://jiangnan.wxeic.cn/). ^_^ \
-I have attended many activities for my school and I'm the AVEC in our class.\
-My hobbies are in the area of IT and funny😅.\
-I want to improve my skills on Github. \
-Together for the shared future.\
-Oh! And also, as a Laoyoutiao on Bilibili, I am an Ikun🤩!（手动狗头）\
-⠤⢤⢠⠴⢤⠄⠄⡰⢰⠤⠤⢤⠄⣀⣀⣰⣀⣀⡀⠠⠴⠦⡤⠶⠤⠄\
-⢣⢸⢸⠨⠼⠄⠐⡇⠁⡄⡇⡌⠄⠄⢀⠎⢆⠄⠄⠠⠭⠭⡯⠭⠥⠄\
-⡠⠣⡨⠭⢍⡇⠄⡇⠘⢀⡇⠘⠄⡠⠊⠐⠌⠢⡀⢈⡩⠝⠙⠭⣉⠄
-## Contact me 联系我
-Email：\
-①zelihole@outlook.com\
-②zelihole@tutanota.com\
-Bilibili：\
-①[UID：1186584392](https://space.bilibili.com/1186584392)\
-XINGCHENMAO：\
-①[AuthorNum：991](https://www.xcng.cn/author/991)\
-MOE.ONE：\
-①[UID：174](https://moe.one/user-174.htm)\
-_I may not be able to be reached through other Social Platform._
-# SERIOUS WARNING 严正警告
-Do not leave any saying such as "TW isn't a part of CN" again!\
-The question of Taiwan is entirely and internal affair of the PRC.\
-🤭🤭🤭
-[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
-# Public welfare promotion 公益宣传
-![搜狗截图20230618083759](https://i2.100024.xyz/2023/06/18/dxkxc7.webp)\
-![搜狗截图20230618105455](https://i2.100024.xyz/2023/06/18/hgvd0k.webp)\
-░░░░░░░░░░░ ██\
-░░░░░░░░░░░█░█\
-░░░░░░░░░░█░░█\
-░░░░░░░░░█░░░█\
-███████▄▄█░░░██████▄\
-▓▓▓▓▓▓█░░░░░░░░░░░░█\
-▓▓▓▓▓▓█░░░░░░░░░░░░█\
-▓▓▓▓▓▓█░░░░░░░░░░░░█\
-▓▓▓▓▓▓█░░░░░░░░░░░░█\
-▓▓▓▓▓▓█░░░░░░░░░░░░█\
-▓▓▓▓▓▓█████░░░░░░░░█\
-██████▀░░░▀▀██████▀
+# 记一次严重的个人隐私信息外网泄露并遭受威胁事故
+
+2023年7月9日，我将把这一天定为“隐私泄露七九事故”，永久纪念。这是仅我受影响的事故，但对我造成了极大的影响，也引发我对互联网的不信任。
+
+这次事故要从一个叫做LGBT的群体说起，即性少数群体。其实别人性少数与我没有关系，但是现在，这个LGBT的很多人打着“自由”的旗号，表面上要求“政治正确”，实际上是变相的干扰政府与社会。
+
+这一点我不是空口白话，从某些国家的现状就能看出来。比如美国现在有102种性别，他们在街上游行示威的画面数不胜数，也有某些国家总统和部长为了给自己选举拉票，纵容LGBT的暴乱，甚至为了“政治正确”让LGBT合法担任国家公职人员，并以此宣传。
+
+![美国街头LGBT游行举北洋政府旗](https://picx.zhimg.com/80/v2-3f191ad4a95288c0823226db58d2fb91_1440w.webp?source=1940ef5c)
+
+所以当我在GitHub上面看到有人说“中国的LGBT需要自由”时，就警惕了起来——又是一个反华仓库。这个仓库的Organization名叫“LGBT-CN”，他关掉并屏蔽了所有反对他的issue，这个在他的仓库的issue里面的closed里面可以看到。
+
+当时我新建了一个issue说中国并不歧视性少数群体，但是现在很多LGBT打着“政治正确”的旗号反抗政府，这种变态的所谓的群体才应当“滚出中国”。我承认也许对他来说我语言过激，但是这种行为、这种群体的确应当被反对。然后我去12377平台政治类举报了他。
+
+后来晚上我邮箱里收到了他的回复，他说“你 GitHub 的仓库我看过了，代码质量并不高。你与其在这里管别人的事不如先把自己该学的东西学好。”
+
+![搜狗截图20230709232141](https://i2.100024.xyz/2023/07/09/12ei26r.webp)
+
+至于他是怎么弄到我的个人信息的我不清楚，也问不了，因为他把我屏蔽了，他还发来一张图片，这张图片是我的脸部照片，挺清楚的，也许是为了表现他的确有能力搞我。
+
+![照片](https://i2.100024.xyz/2023/07/09/12hij84.webp)
+
+![搜狗截图20230709233117](https://i2.100024.xyz/2023/07/09/12k0ndj.webp)
+
+我已经用我的塑料英语向GitHub客服反应，至于处不处理就不知道了。
+
+![搜狗截图20230709224132](https://i2.100024.xyz/2023/07/09/12lrhnt.webp)
+![搜狗截图20230709224412](https://i2.100024.xyz/2023/07/09/12lrm3u.webp)
+
+**不过他说的一点我的确得铭记在心——“谨言慎行”，12377处不处理我不知道，GitHub方面处不处理我也不知道，但是这些事情虽然令人厌烦，但是以后还是别去管他，不然倒霉的是自己。**
+
+_后来我发现好像我说话也没那么激烈doge_
+
+![](file://C:\Users\zelee\AppData\Roaming\marktext\images\2023-07-09-23-45-19-image.png?msec=1688918743119)
+
+<h1 class="atx" id="记一次严重的个人隐私信息外网泄露并遭受威胁事故">记一次严重的个人隐私信息外网泄露并遭受威胁事故</h1>
+<p>2023年7月9日，我将把这一天定为“隐私泄露七九事故”，永久纪念。这是仅我受影响的事故，但对我造成了极大的影响，也引发我对互联网的不信任。</p>
+<p>这次事故要从一个叫做LGBT的群体说起，即性少数群体。其实别人性少数与我没有关系，但是现在，这个LGBT的很多人打着“自由”的旗号，表面上要求“政治正确”，实际上是变相的干扰政府与社会。</p>
+<p>这一点我不是空口白话，从某些国家的现状就能看出来。比如美国现在有102种性别，他们在街上游行示威的画面数不胜数，也有某些国家总统和部长为了给自己选举拉票，纵容LGBT的暴乱，甚至为了“政治正确”让LGBT合法担任国家公职人员，并以此宣传。</p>
+<p><img alt="美国街头LGBT游行举北洋政府旗" src="https://picx.zhimg.com/80/v2-3f191ad4a95288c0823226db58d2fb91_1440w.webp?source=1940ef5c"></p>
+<p>所以当我在GitHub上面看到有人说“中国的LGBT需要自由”时，就警惕了起来——又是一个反华仓库。这个仓库的Organization名叫“LGBT-CN”，他关掉并屏蔽了所有反对他的issue，这个在他的仓库的issue里面的closed里面可以看到。</p>
+<p>当时我新建了一个issue说中国并不歧视性少数群体，但是现在很多LGBT打着“政治正确”的旗号反抗政府，这种变态的所谓的群体才应当“滚出中国”。我承认也许对他来说我语言过激，但是这种行为、这种群体的确应当被反对。然后我去12377平台政治类举报了他。</p>
+<p>后来晚上我邮箱里收到了他的回复，他说“你 GitHub 的仓库我看过了，代码质量并不高。你与其在这里管别人的事不如先把自己该学的东西学好。”</p>
+<p><img alt="搜狗截图20230709232141" src="https://i2.100024.xyz/2023/07/09/12ei26r.webp"></p>
+<p>至于他是怎么弄到我的个人信息的我不清楚，也问不了，因为他把我屏蔽了，他还发来一张图片，这张图片是我的脸部照片，挺清楚的，也许是为了表现他的确有能力搞我。</p>
+<p><img alt="照片" src="https://i2.100024.xyz/2023/07/09/12hij84.webp"></p>
+<p><img alt="搜狗截图20230709233117" src="https://i2.100024.xyz/2023/07/09/12k0ndj.webp"></p>
+<p>我已经用我的塑料英语向GitHub客服反应，至于处不处理就不知道了。</p>
+<p><img alt="搜狗截图20230709224132" src="https://i2.100024.xyz/2023/07/09/12lrhnt.webp">
+<img alt="搜狗截图20230709224412" src="https://i2.100024.xyz/2023/07/09/12lrm3u.webp"></p>
+<p><strong>不过他说的一点我的确得铭记在心——“谨言慎行”，12377处不处理我不知道，GitHub方面处不处理我也不知道，但是这些事情虽然令人厌烦，但是以后还是别去管他，不然倒霉的是自己。</strong></p>
+<p><em>后来我发现好像我说话也没那么激烈doge</em></p>
+<p><img alt="" src="file://C:%5CUsers%5Czelee%5CAppData%5CRoaming%5Cmarktext%5Cimages%5C2023-07-09-23-45-19-image.png?msec=1688917519104"></p>
